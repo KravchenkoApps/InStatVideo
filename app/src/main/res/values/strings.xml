@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">InStatVideo</string>
+
+    <!-- =====TextView===== -->
+    <string name="date">Дата</string>
+    <string name="team_1">Команда 1</string>
+    <string name="team_2">Команда 2</string>
+    <string name="tournament">Турнир</string>
+    <string name="score_1">Счет 1</string>
+    <string name="score_2">Счет 2</string>
+    <string name="list_video">Для просмотра выберите видео ролик</string>
+
+
+    <string name="button_video">Ролик</string>
+
+
+
+
+</resources>
